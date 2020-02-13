@@ -1,0 +1,8 @@
+---
+title: "RStudio_IDE"
+author: "Becky Maher"
+date: "13/02/2020"
+output: html_document
+---
+
+# R Studio Tutorial
