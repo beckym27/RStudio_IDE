@@ -5,4 +5,26 @@ date: "13/02/2020"
 output: html_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # R Studio Tutorial
+
+## Importing dataset
+
+```{r}
+Crossover_data <- read.csv("/Users/beckymaher/Desktop/graduate degree/HKR6000/data/raw_data/correlation data.csv")
+```
+
+## Simple things in R
+
+```{r}
+
+2 + 2
+
+a <- 2 + 2
+
+a + a
+
+```
